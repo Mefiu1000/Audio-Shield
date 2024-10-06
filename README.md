@@ -5,6 +5,7 @@ The project is an audio shield for STM32 nucleo board or any other board compati
 
 ![](Media/PCB_3D.png)
 
+![](Media/PCB_soldered.jpg)
 
 ![](Media/PCB.png)
 ## RC filter
